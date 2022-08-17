@@ -62,4 +62,4 @@ Contributors
 
 
 ## Contact
-Created by [@MDVRP] - feel free to contact me!
+Created by @MDVRP - feel free to contact me!
