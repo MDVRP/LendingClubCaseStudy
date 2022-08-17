@@ -1,4 +1,6 @@
-# LENDING CLUB CASE STUDY
+# Project Name
+> 
+LENDING CLUB CASE STUDY
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -54,6 +56,8 @@ Combined impact
 Contributors 
 - S Rajini Parimala
 - Aditi Sharma
+
+
 
 
 
