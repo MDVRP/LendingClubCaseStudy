@@ -23,28 +23,28 @@ The company can utilise this knowledge for its portfolio and risk assessment.
 
 Minor Impact
 
-•Higher loan amount (above 16K)
-•Higher installment amount (above 327)
-•Lower annual income (below 37K)
-•Applicant’s address state (NV, SD, AK, FL, etc.)
-•Loan issue month (Dec, May, Sep)
+- Higher loan amount (above 16K)
+- Higher installment amount (above 327)
+- Lower annual income (below 37K)
+- Applicant’s address state (NV, SD, AK, FL, etc.)
+- Loan issue month (Dec, May, Sep)
 
 
 Heavy impact
 
-•Higher interest rate (above 13%)
-•Higher dti (above 15 %)
-•Loan grade & sub-grade (D to G)
-•Missing employment record
-•Loan purpose (small business, renewable energy, educational)
+- Higher interest rate (above 13%)
+- Higher dti (above 15 %)
+- Loan grade & sub-grade (D to G)
+- Missing employment record
+- Loan purpose (small business, renewable energy, educational)
 
 Combined impact
 
-•High loan amount & interest rate for lower income group
-•Home ownership (other) and loan purpose (car, moving or small business)
-•Income group and loan purpose
-•DTI and loan purpose
-•Residential state and loan purpose
+- High loan amount & interest rate for lower income group
+- Home ownership (other) and loan purpose (car, moving or small business)
+- Income group and loan purpose
+- DTI and loan purpose
+- Residential state and loan purpose
 
 ## Technologies Used
 - Pandas - version 1.4.2
