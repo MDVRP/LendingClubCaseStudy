@@ -1,6 +1,4 @@
-# Project Name
-> 
-LENDING CLUB CASE STUDY
+# LENDING CLUB CASE STUDY
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -54,10 +52,10 @@ Combined impact
 
 ## Acknowledgements
 Contributors 
--S Rajini Parimala
--Aditi Sharmas
+- S Rajini Parimala
+- Aditi Sharma
 
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @MDVRP - feel free to contact me!
